@@ -1,2 +1,2 @@
 # Basics
-This is work on the basic of python
+This is a repos for all those want to do basic programming in python.
